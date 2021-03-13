@@ -1,0 +1,21 @@
+# HELP fio_write_bw Bandwidth Used
+# TYPE fio_write_bw gauge 
+fio_write_bw 25244
+# HELP fio_write_bw_min Minimum Bandwidth Used
+# TYPE fio_write_bw_min gauge
+fio_write_bw_min 8183
+# HELP fio_write_iops_mean IOPS Mean
+# TYPE fio_write_iops_mean gauge
+fio_write_iops_mean 23.285714
+# HELP fio_write_iops_max IOPS Max
+# TYPE fio_write_iops_max gauge
+fio_write_iops_max 28
+# HELP fio_write_iops_min IOPS Min
+# TYPE fio_write_iops_min gauge
+fio_write_iops_min 7
+# HELP fio_write_lat_mean_nanosecond Mean Latency in nanoseconds
+# TYPE fio_write_lat_mean_nanosecond gauge
+fio_write_lat_mean_nanosecond 40532803.362305
+# HELP fio_write_latency_max_nanosecond Max latency in nanoseconds
+# TYPE fio_write_latency_max_nanosecond gauge
+fio_write_latency_max_nanosecond 360105649
